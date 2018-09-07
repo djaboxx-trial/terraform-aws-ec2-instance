@@ -1,0 +1,3 @@
+variable "hell" {
+default = "yeah"
+}
